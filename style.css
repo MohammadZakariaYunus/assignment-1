@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.half-width{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+h1{
+    font-size: 50px;
+}
+h1 span{
+    color: rgb(236, 165, 33);
+}
+.header-border{
+    border-left: 5px solid salmon;
+}
+.half-width img{
+    width: 100%;
+}
